@@ -1,0 +1,9 @@
+{
+  "rds_host": "database-1.c6t6tjdcl6mp.us-east-1.rds.amazonaws.com",
+  "rds_port": "3306",
+  "rds_user": "admin",
+  "rds_password" : "upu3Hq83xf5MjM8",
+  "rds_db": "CIS5500Project",
+  "server_host": "localhost",
+  "server_port":"8080"
+}
