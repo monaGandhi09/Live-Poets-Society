@@ -3,7 +3,7 @@ This is our take on Goodreads but specifically for fans of poetry.
 
 For a detailed information about the process of creating and optimizing queries please look at: [Report](LivePoetsSocietyReport.pdf). We also created a presentation and a demo of the platform for better understanding of the working, you can take a look here: 
 [Presentation](LivePoetsSocietyPresentation.pdf) and 
-[Demo](LivePoetsSocietyDemo.mp4)
+[Demo](LivePoetsSocietyDemo.mp4).
 
 ## File Structure
 The file structure of this project is as follows:
