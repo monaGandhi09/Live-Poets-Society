@@ -38,6 +38,9 @@ The file structure of this project is as follows:
 - `server`: This folder contains the server-side code.
     - `routes.js`: This file contains all of the routes for the server-side and their SQL queries
     - `server.js`: This file starts the server and listens for incoming requests.
+ 
+## Set up Database on AWS
+Create a database instance, update server/config.json, and run the SQL commands in data_setup/ddl.sql to create the database. Download the data from Goodreads, process it using files in data_setup and finally upload it to the instance.
 
 ## Installation
 To install the dependencies for this project, run `npm install` in the root/client/server directories of the project.
